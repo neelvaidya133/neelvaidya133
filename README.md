@@ -106,7 +106,7 @@
 
 ###
 
-<p align="left">● Email: neelvaidya2000@gmail.com<br>● LinkedIn: linkedin.com/in/your-profile<br>● GitHub: github.com/your-profile<br>● LeetCode: leetcode.com/your-profile</p>
+<p align="left">● Email: neelvaidya2000@gmail.com<br>● LinkedIn:https://www.linkedin.com/in/neelvaidya133/<br>● GitHub: https://www.github.com/neelvaidya133<br>● LeetCode: https://www.leetcode.com/neelvaidya133</p>
 
 
 ### ✍️ Random Dev Quote
