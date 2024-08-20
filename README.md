@@ -82,13 +82,6 @@
 
 <p align="left">I'm currently pursuing a Post Graduate Diploma in Web Development at Conestoga College. Alongside my studies, I'm delving deeper into cloud computing, microservices architecture, and DevOps practices to enhance the scalability and efficiency of my projects.</p>
 
-###
-###
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=neelvaidya133&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=neelvaidya133&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neelvaidya133&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 
 <h2 align="left">📜 Certifications</h2>
 
