@@ -15,16 +15,16 @@ A feature-rich social media platform built with **Next.js**, **TypeScript**, **G
 ### 📊 [DevOps Monitoring System](https://github.com/neelvaidya133/devops-monitoring-and-alerting-system)
 A real-time **DevOps Monitoring System** that tracks server performance, application logs, and system health metrics. Built using **Prometheus**, **Grafana**, **Docker**, and **Kubernetes**, this system ensures **efficient logging, monitoring, and alerting** to maintain high availability and performance.
 
-### ✂️ [Tailors' Data Management](https://github.com/neelvaidya/Tailor)
+### ✂️ [Tailors' Data Management](https://github.com/neelvaidya133/Tailor)
 A comprehensive management system for tailors, allowing them to manage multiple shops, customer records, orders, and inventory all in one place. Built with **React.js**, **Node.js**, **PostgreSQL**, **AWS** and **Verel** to streamline operations efficiently.
 
-### 🛠️ [Personal Portfolio with CI/CD](https://github.com/neelvaidya/portfolio-ci-cd)
+### 🛠️ [Personal Portfolio with CI/CD](https://github.com/neelvaidya133/portfolio-ci-cd)
 A personal portfolio website built with **Next.js** and **Tailwind CSS**, showcasing my skills and projects. Integrated **GitHub Actions** for automated deployment and hosted on **Vercel**.
 
-### 🏢 [Company Portfolio Website](https://github.com/neelvaidya/Devetree2)
+### 🏢 [Company Portfolio Website](https://github.com/neelvaidya133/Devetree2)
 A professional company portfolio website built with **React.js** that supports **secure resume uploads** stored in **Firebase**, ensuring data security while offering a responsive UI.
 
-### 📍 [FedEx Locator](https://github.com/neelvaidya/fasc)
+### 📍 [FedEx Locator](https://github.com/neelvaidya133/fasc)
 A simple **React.js** app that leverages **geolocation** to find the nearest **FedEx shipping locations** within the Kitchener-Waterloo-Cambridge area.
 
 
@@ -129,7 +129,7 @@ A simple **React.js** app that leverages **geolocation** to find the nearest **F
 ## 📜 Certifications
 
 - 🎓 [AWS Certified Solution Architect](https://www.credly.com/badges/b4120225-9a43-4b29-b955-67569a6aa50f)
-- 🎓 [HashiCorp Certified: Terraform Associate](https://www.credly.com/earner/earned/badge/bc1b715f-4401-4272-85d1-7024b3fcae69)
+- 🎓 [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/bc1b715f-4401-4272-85d1-7024b3fcae69/public_url)
 
 
 ###
@@ -142,7 +142,7 @@ A simple **React.js** app that leverages **geolocation** to find the nearest **F
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-[![](https://visitcount.itsvg.in/api?id=neelvaidya133&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=neelvaidya133&color=grey)
 
 
 
